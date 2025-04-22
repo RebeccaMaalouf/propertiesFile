@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to rebecca accounts related webh APIs"
+  message: "Hey, welcome to rebecca accounts related webhrevb APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Ownerrrrr"
     email: "{cipher}c6da35459a45d09c116cb8c2db4ca11c74ef0c39db15f1a6270c1bfd7ba121bc"
