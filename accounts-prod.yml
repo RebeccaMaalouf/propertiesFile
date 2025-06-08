@@ -4,7 +4,7 @@ build:
 accounts:
   message: "accounts prod info"
   contactDetails:
-    name: "Rebcca Maalouf  - accounts - prodddd"
+    name: "Rebcca Maalouf  - accounts - prod"
     email: "{cipher}c6da35459a45d09c116cb8c2db4ca11c74ef0c39db15f1a6270c1bfd7ba121bc"
   onCallSupport:
     - 1234
