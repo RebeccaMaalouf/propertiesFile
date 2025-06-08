@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to rebecca accounts related wn kk APIs"
+  message: "accounts prod info"
   contactDetails:
-    name: "Reine Aishwarya - Product Ownerrrrr testttting"
+    name: "Rebcca Maalouf  - accounts - prod"
     email: "{cipher}c6da35459a45d09c116cb8c2db4ca11c74ef0c39db15f1a6270c1bfd7ba121bc"
   onCallSupport:
-    - (453) 392-4829
-    - (236) 203-0384
+    - 1234
+    - 12345
